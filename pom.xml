@@ -16,5 +16,4 @@
         <module>tutorial-server</module>
         <module>tutorial-web</module>
     </modules>
-
 </project>
